@@ -1,0 +1,45 @@
+img{
+  float: left;
+  height: 200px;
+  width: 200px;
+  margin: 20px;
+}
+
+h3{
+  color: white;
+  margin-top: 30px;
+}
+
+h4{
+  color: #4eeea5;
+}
+
+p{
+
+}
+
+.fixed-top{
+  height: 100px;
+}
+
+.name{
+  background-color: #4eeea5;
+  height: 100px;
+  text-align: center;
+  position: relative;
+  left: 59px;
+}
+
+.bodBuffer{
+  height: 140px;
+}
+
+.conBod{
+  height: 500px;
+  background-color: #777777;
+}
+
+.aboutMe{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
