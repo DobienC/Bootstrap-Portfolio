@@ -9,6 +9,10 @@ body{
   color: #777777;
 }
 
+a{
+  color: white;
+}
+
 img{
   float: left;
   height: 300px;
@@ -90,3 +94,4 @@ footer{
   border: 0px;
   width: 100px;
 }
+
